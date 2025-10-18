@@ -1,16 +1,29 @@
-## Hi there 👋
+Halo! 👋
+Kami membuka kesempatan kerjasama pengembangan website e-commerce sederhana, dengan fokus utama pada penjualan dan pembuatan berbagai jenis website, mulai dari:
+💒 Website Pernikahan (Wedding Website)
+🏢 Website Perusahaan (Company Profile)
+🛍️ Website Toko Online (E-Commerce)
+🎨 Website Portofolio atau Personal Branding
 
-<!--
-**BaseteamProject/BaseteamProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tujuan proyek ini adalah untuk menghadirkan platform digital yang memudahkan pelanggan dalam memilih, memesan, dan menyesuaikan website sesuai kebutuhan mereka — lengkap dengan desain menarik dan sistem pembayaran online yang mudah digunakan. 💳✨
 
-Here are some ideas to get you started:
+🧩 Teknologi yang digunakan:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Frontend: Vue 3 → tampilan interaktif dan responsif
+
+🎨 UI Framework: Tailwind CSS → desain modern dan cepat disesuaikan
+
+⚙️ Backend: Express.js → server-side ringan dan efisien
+
+🗄️ Database: MySQL → pengelolaan data pengguna, transaksi, dan konten website
+
+💻 Version Control: GitHub → kolaborasi dan pengembangan berkelanjutan
+
+💡 Melalui kolaborasi ini, kami berharap dapat menciptakan platform e-commerce yang:
+✅ Profesional
+✅ Mudah digunakan
+✅ Bernilai bisnis tinggi
+✅ Menjadi solusi digital elegan untuk berbagai kebutuhan website
+
+Terima kasih atas perhatian dan kesempatan untuk berkolaborasi 🤝
+Mari kita wujudkan pengalaman digital terbaik untuk semua! 🚀
